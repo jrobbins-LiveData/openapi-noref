@@ -1,0 +1,1 @@
+openapi-python-client generate --path test-schema.yaml
